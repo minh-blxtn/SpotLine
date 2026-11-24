@@ -1,0 +1,10 @@
+{
+    "scale": 125.0,
+    "monitor_w": 1920.0,
+    "monitor_h": 1080.0,
+    "game_w": 1920.0,
+    "game_h": 1080.0,
+    "sec_w": 1920.0,
+    "sec_h": 1200.0,
+    "sec_pos": "Left"
+}
